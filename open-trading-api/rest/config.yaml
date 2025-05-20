@@ -1,0 +1,14 @@
+# 홈페이지에서 API서비스 신청시 받은 Appkey, Appsecret 값 설정 
+APP_KEY: "PSQkKGXCn8ys9TKnG7UDVTD6RuDs4gndlQPl"
+APP_SECRET: "il/0TL+VxB9lgU1DjFTLsv3EWjukzeL5oZ1HLdacDcJs1dB8AQpkYUxl4MG82OAo1f4xkRKusheUYP2Dis8jobzB4hniAFxQe8pz+/LaOR0pizvmc7KYIjFfAkiIeO+kuPvPtpSzY50veRXM6uQKRfXG+f+8ZIEmI8bcrUigqEe3DNEfr2I="
+
+# 계좌번호 앞 8자리
+C ANO: "50137474" 
+# 계좌번호 뒤 2자리
+ACNT_PRDT_CD: "01"
+
+# 도메인
+URL_BASE: "https://openapi.koreainvestment.com:9443"
+
+# HTS ID
+HTS_ID: "hantu34"
